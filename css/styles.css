@@ -1,0 +1,12 @@
+#show-place {
+  display: none;
+}
+
+.placeAppend {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.placeAppend:hover {
+  text-decoration: underline;
+}
